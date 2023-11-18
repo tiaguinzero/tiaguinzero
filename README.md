@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tzik.zip/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tiaguinxml) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocos/)
 
-<img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=polabiel&amp;show_icons=true&amp;theme=transparent"/> <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polabiel&amp;layout=compact&amp;theme=transparent"/>
+<img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=tiaguinzero&amp;show_icons=true&amp;theme=transparent"/> <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
 
 ## Tecnologias que eu uso:
 
