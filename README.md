@@ -35,7 +35,7 @@
   
   </div>
   <div align="right">
-      clique aqui >>>
+      não clique aqui >>>
     <a href="https://open.spotify.com/intl-pt/track/2xgvuJvwjnaJHFHb66E3nq?si=2d76f7c313bd4ba7">
       <img alight="rigth" src="https://media4.giphy.com/media/jD8hwElvKGJSVdcBRu/200.gif" width=50px height="50px"/>
     </a>
