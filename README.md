@@ -6,7 +6,8 @@
   </ul>
 </div>
 
-<div align="center">
+<div align="left">
+  <h2>Programming Languages and Tools</h2>
   
   <a href="https://www.python.org/">
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
