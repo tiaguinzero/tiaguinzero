@@ -9,7 +9,7 @@
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   </a>
   <a href="https://www.java.com/">
-    <img align="center" alt="java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" style="max-width: 100%;/>
+    <img align="center" alt="java" height="40" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" style="max-width: 100%;/>
   </a>
   <a href="https://react.dev/">
     <img align="center" alt="React" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" style="max-width: 100%;">
