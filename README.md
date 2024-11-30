@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   
   ##Hi there, I'm Tiago
   - 🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.
