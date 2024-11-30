@@ -5,18 +5,22 @@
 
 <div align="center">
   
+  <a href="https://www.python.org/">
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+  </a>
+  <a href="https://www.java.com/">
+    <img align="center" alt="java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" style="max-width: 100%;/>
+  </a>
+  <a href="https://react.dev/">
+    <img align="center" alt="React" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" style="max-width: 100%;">
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   </a>
-  <a href="https://www.python.org/">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://www.java.com/">
-    <img align="center" alt="java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="50px" width="50px"/>
-  </a>
+  
 <p></p>
 </div>
 
