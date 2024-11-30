@@ -12,7 +12,7 @@
     <img align="center" alt="java" height="40" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" style="max-width: 100%;/>
   </a>
   <a href="https://react.dev/">
-    <img align="center" alt="React" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" style="max-width: 100%;">
+    <img align="center" alt="React" height="40" width="50" src="https://static.wixstatic.com/media/6cb056_8605763b03dd4bff93e07426e27078a7~mv2.png/v1/fit/w_448,h_252,lg_1,q_85,usm_0.66_1.00_0.01,enc_auto/6cb056_8605763b03dd4bff93e07426e27078a7~mv2.png" style="max-width: 100%;">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
