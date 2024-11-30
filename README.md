@@ -1,6 +1,8 @@
-<div align="center">
+<div align="right">
   
-  <h1>Olá! eu me chamo Tiago Costa e sou estudante de Desenvolvimento de Sistemas no colégio <a href="https://cotuca.unicamp.br/">Cotuca - Unicamp<a/></h1>
+  ##Hi there, I'm Tiago
+  - 🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.
+  - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
 </div>
 
 <div align="center">
