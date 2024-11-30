@@ -14,8 +14,8 @@
   <a href="https://www.python.org/">
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   </a>
-  <a href="https://www.javascript.com/">
-    <img align="center" alt="javaScript" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif" height="40px" width="40px"/>
+  <a href="https://www.java.com/">
+    <img align="center" alt="java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40px" width="40px"/>
   </a>
 <p></p>
 </div>
