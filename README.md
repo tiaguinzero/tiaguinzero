@@ -29,19 +29,4 @@
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
   
 </div>
-
-<div alight="center">
-  <div align="left">
-
-  ## Minhas redes:
-      
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tzik.zip/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocos/)
-  
-  </div>
-  <div align="right">
-      clique aqui >>>
-    <a href="https://www.linkedin.com/in/tiagocos/">
-      <img alight="rigth" src="https://media4.giphy.com/media/jD8hwElvKGJSVdcBRu/200.gif" width=50px height="50px"/>
-    </a>
-  </div>
 </div>
