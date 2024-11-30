@@ -1,7 +1,9 @@
 <div align="left">
-  ## Hi there, I'm Tiago!
-  - 🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.
-  - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp.
+  <h2>Hi there, I'm Tiago!</h2>
+  <ul>
+    <li>🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.</li>
+    <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
+  </ul>
 </div>
 
 <div align="center">
