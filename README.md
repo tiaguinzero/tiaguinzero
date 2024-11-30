@@ -1,12 +1,7 @@
 <div align="left">
-  
-  <h2>
-    Hi there, I'm Tiago!
-  <h2/>
-  <text>  
+  ## Hi there, I'm Tiago!
   - 🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.
   - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp.
-  <text/>
 </div>
 
 <div align="center">
