@@ -8,8 +8,11 @@
 
 <div align="left">
   <h2>Programming Languages and Tools</h2>
-  
-  <a href="https://www.javaScript.org/">
+
+  <a href="https://git-scm.com/downloads">
+    <img align="center" alt="javaScript" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width: 100%;">
   </a>
   <a href="https://www.java.com/">
