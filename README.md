@@ -38,7 +38,7 @@
 </div>
 
 <div align="left">
-  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=tiaguinzero&amp;show_icons=true&amp;theme=transparent&locale=pt-br"/> 
+  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=tiaguinzero&amp;show_icons=true&amp;theme=transparent"/> 
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
   
 </div>
