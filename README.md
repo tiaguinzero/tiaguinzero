@@ -10,9 +10,6 @@
 <div align="left">
   <h2>Programming Languages and Tools</h2>
   
-  <a href="https://www.figma.com/pt-br/">
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;">
-  </a>
   <a href="https://git-scm.com/downloads">
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
   </a>
