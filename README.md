@@ -35,7 +35,7 @@
     <img align="center" alt="React" src="https://camo.githubusercontent.com/bf2f08f2dc847a80500375f677d8e7ac983e43d32874ac7df6ca6f8ad30c6eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" alt="CSS" src="https://preview.redd.it/p3spi9g7tehc1.gif?width=1000&format=mp4&s=146896c7946afe5023d1883932a848ce272d7042" style="max-width: 100%;">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
   </a>
   
 <p></p>
@@ -47,6 +47,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="gif" src="https://i.pinimg.com/originals/f8/5a/46/f85a4679cf130d5c1f2d5a64ad8e33ff.gif" style="width: 40px" >
+  <img aling="right" alt="gif" src="https://preview.redd.it/p3spi9g7tehc1.gif?width=1000&format=mp4&s=146896c7946afe5023d1883932a848ce272d7042" style="width: 40px" >
 </div>
 </div>
