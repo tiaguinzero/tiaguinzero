@@ -9,14 +9,13 @@
 
 <div align="left">
   <h2>Programming Languages and Tools</h2>
-
-  <a href="https://git-scm.com/downloads">
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
-  </a>
+  
   <a href="https://www.figma.com/pt-br/">
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;">
   </a>
-  
+  <a href="https://git-scm.com/downloads">
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="HTML" src="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
   </a>
@@ -48,6 +47,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="gif" src="https://i.pinimg.com/originals/f8/5a/46/f85a4679cf130d5c1f2d5a64ad8e33ff.gif" style="width: 100px" >
+  <img aling="right" alt="gif" src="https://i.pinimg.com/originals/f8/5a/46/f85a4679cf130d5c1f2d5a64ad8e33ff.gif" style="width: 40px" >
 </div>
 </div>
