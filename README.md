@@ -5,7 +5,7 @@
     <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
   </ul>
 </div>
-<img aling="right alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif">
+<img aling="right alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif" style="max-width: 100%" >
 
 <div align="left">
   <h2>Programming Languages and Tools</h2>
