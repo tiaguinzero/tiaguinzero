@@ -43,5 +43,7 @@
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
   
 </div>
-<img aling="left" alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif" style="width: 100px" >
+<div>
+  <img aling="right" alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif" style="width: 100px" >
+</div>
 </div>
