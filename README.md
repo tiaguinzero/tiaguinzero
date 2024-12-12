@@ -44,6 +44,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif" style="width: 100px" >
+  <img aling="right" alt="[https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif](https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif)" style="width: 100px" >
 </div>
 </div>
