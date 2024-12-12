@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>Hi there, I'm Tiago!<img aling="right alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif" style="max-width: 100%" ></h2>
+  <h2>Hi there, I'm Tiago!</h2>
   <ul>
     <li>🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.</li>
     <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
@@ -43,4 +43,5 @@
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
   
 </div>
+<img aling="right alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif" style="width: 50px" >
 </div>
