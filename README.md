@@ -5,6 +5,7 @@
     <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
   </ul>
 </div>
+<img aling="right alt="gif" src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif">
 
 <div align="left">
   <h2>Programming Languages and Tools</h2>
@@ -17,7 +18,7 @@
   </a>
   <a href="https://www.java.com/">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;/>
-  </a>
+  </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width: 100%;">
   </a>
