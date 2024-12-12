@@ -44,6 +44,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="https://cdn.pixabay.com/animation/2023/04/27/05/49/05-49-58-802_512.gif" style="width: 100px" >
+  <img aling="right" alt="https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif" style="width: 100px" >
 </div>
 </div>
