@@ -47,6 +47,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="gif" src="https://preview.redd.it/p3spi9g7tehc1.gif?width=1000&format=mp4&s=146896c7946afe5023d1883932a848ce272d7042" style="width: 40px" >
+  <img aling="right" alt="gif" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpeAjdwG2ccPtSyVaxGeIkjNvAmpFN8mzTw&s" style="width: 40px" >
 </div>
 </div>
