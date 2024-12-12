@@ -43,7 +43,7 @@
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
   
 </div>
-<div align="right">
-  <img aling="right" alt="[https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif](https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif)" style="width: 100px" >
-</div>
+<!-- <div align="right">
+  <img aling="right" alt="https://media.tenor.com/LGoTHwzZzHcAAAAj/planet-earth.gif" style="width: 100px" >
+</div> -->
 </div>
