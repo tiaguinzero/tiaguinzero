@@ -44,6 +44,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="gif" src="https://fis.mat.br/eletivas_files/imgFull_57.gif" style="width: 100px" >
+  <img aling="right" alt="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" style="width: 100px" >
 </div>
 </div>
