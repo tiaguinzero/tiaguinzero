@@ -44,6 +44,6 @@
   
 </div>
 <div align="right">
-  <img aling="right" alt="https://i.pinimg.com/originals/14/c0/1d/14c01d070ef4669ac8d9aca1f4aa9de1.gif" style="width: 100px" >
+  <img aling="right" alt="https://cdn.pixabay.com/animation/2023/04/27/05/49/05-49-58-802_512.gif" style="width: 100px" >
 </div>
 </div>
