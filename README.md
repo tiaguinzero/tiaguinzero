@@ -28,12 +28,8 @@
   <a href="https://https://nodejs.org/en/">
     <img align="center" alt="nodejs" src="https://camo.githubusercontent.com/5efede1ede485921a068d065e72eae3446b1d4f9c8aba580ab290b060e1d436a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" style="max-width: 100%;/>
   </a>
-
- <!-- <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
-    <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="max-width: 100%;">
-  </a> -->
   <a href="https://react.dev/">
-    <img align="center" alt="React" src="https://camo.githubusercontent.com/bf2f08f2dc847a80500375f677d8e7ac983e43d32874ac7df6ca6f8ad30c6eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;">
+    <img align="center" alt="React"     src="https://camo.githubusercontent.com/bf2f08f2dc847a80500375f677d8e7ac983e43d32874ac7df6ca6f8ad30c6eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
