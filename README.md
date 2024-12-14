@@ -39,6 +39,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
   </a>
 </div>
+<p></p>
 <div align="left">
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=tiaguinzero&amp;show_icons=true&amp;theme=transparent"/> 
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaguinzero&amp;layout=compact&amp;theme=transparent"/>
