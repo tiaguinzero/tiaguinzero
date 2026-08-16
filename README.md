@@ -1,4 +1,4 @@
-<div align="left">
+<!-- <div align="left">
   <h2>Hi there, I'm Tiago!</h2>
   <ul>
     <li>🌱 I’m currently learning Java, JavaScript, Python, Node.Js, HTML5/CSS3, React.</li>
@@ -8,8 +8,11 @@
 
 
 <div align="left">
-  <h2>Programming Languages and Tools</h2>
+  <h2>Programming Languages and Tools</h2> -->
   
+  <a href="https://git-scm.com/downloads">
+    <img align="center" alt="git" src="https://www.pinterest.com/pin/1071645673826504236/" style="max-width: 100%;">
+  </a>
   <a href="https://git-scm.com/downloads">
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
   </a>
