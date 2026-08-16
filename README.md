@@ -1,7 +1,7 @@
 <div align="left">
   <h2>Hi there, I'm Tiago!</h2>
   <ul>
-    <li>🌱 I’m currently learning Java, JavaScript, C#, Node.Js, HTML5/CSS3, React.</li>
+    <li>🌱 I’m currently learning Java, JavaScript, Python, Node.Js, HTML5/CSS3, React.</li>
     <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
   </ul>
 </div>
@@ -12,9 +12,6 @@
   
   <a href="https://git-scm.com/downloads">
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://www.java.com/">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;/>
@@ -30,8 +27,5 @@
   </a>
   <a href="https://www.python.org/">
     <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
   </a>
 </div>
