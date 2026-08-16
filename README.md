@@ -2,7 +2,7 @@
   <h2>Hi there, I'm Tiago!</h2>
   <ul>
     <li>🌱 I’m currently learning Java, JavaScript, Python, Node.Js, HTML5/CSS3, React.</li>
-    <li>📖 Studying Systems Development at Colégio Técnico de Campinas - Unicamp.</li>
+    <li>📖 Studying Applied and Computational Mathematics.</li>
   </ul>
 </div>
 
